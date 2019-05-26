@@ -1,7 +1,7 @@
 ## Chenbo (Simon) Yi
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@ycb0001) | [LinedIn](https://www.linkedin.com/in/chenbo-yi-6084722b/)
 
-I'm a enthusiastic and energetic Software Engineer and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple projects in engineering sector and enducation sector. Further than a non-technical project manager, I  would like to use my strengths on research and analytical thinking to have the deeper contributions on projects. During the self-learning, I discovered the enjoyment of programming and magnified the enjoyment in Makers Academy. I am now looking for an opportunity to join a fast paced software team delivering exciting projects/products where I can learn extensively with and contribute to.
+I'm a enthusiastic and energetic Software Engineer in Makers and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple projects in engineering sector and enducation sector. Further than a non-technical project manager, I  would like to use my strengths on research and analytical thinking to have the deeper contributions on projects. During the self-learning, I discovered the enjoyment of programming and magnified the enjoyment in Makers Academy. I am now looking for an opportunity to join a fast paced software team delivering exciting projects/products where I can learn extensively with and contribute to.
 
 ## Projects
 Examples:
@@ -20,11 +20,7 @@ Project title  | Description  									| Project Timeframe | Technologies | Test
  At Makers I pair programmed daily and lead the stand up meeting in my group projects. I am flexible on working styles and able to modify my process depends on mutual agreement. As a former project manager, I worked closed to the technical teams and had opportunity to enrich my experiences on liaison with clients and sub-contractors in SMT. At CUDL, I improved my skills on communication with internal teams and stakeholders. The conference manager at Sidney Sussex college used 'efficient' to describe my communication with her. Similarly the collaboration of CUDL with ACCA Global HQ initiated after I reached out to their head of International Student Flow and had an 'informative' conference call.
 
 #### Fast Learning
-
-
-
-#### Research
-I have fast developed my research skills during the Ph.D study. By critical reviewing hundreds journal paper I have not only gained the fundamental knowledge on the multi-disciplinary subject but also determined a sub-research topic with a feasible research plan. I have accordingly designed and built a bench scale and a batch scale experimental platform. Combining the collaboration with the research group on the shared pilot scale platform, my research led to three coauthored three scientific journal paper. I practices these research skills throughout my later jobs, i.e.  formulating summer school courses in a new discipline by information mining and reach out relevant speakers.
+ I can pickup new concepts and skills quickly through self-learning. I have learnt C# and ruby in about 6 weeks before joining Makers. In Makers, I was able to learn javascript and jasmine in one week and converted my learning to minimum viable product by TDD. Similarly, I made a AirBnB clone using  node.js, express.js, Sequelize and Nightwatch.js with no prior experience in a week. Beside programming, I demonstrated my learning skills by quickly picking up concept on mechanical engineering /automotive industry and in turn leading on technical translation. During the PhD research, I was able gain solid understanding on physical fundamentals quickly with no previous knowledge and built my multidisciplinary research.       
 
 
 #### Analysis
@@ -32,7 +28,7 @@ When I performed scientific research, I often used analytical skills to break th
 
 
 
-#### Troubleshooting
+#### Problem Solving
 The years in project environment provide me excellent opportunities to develop my troubleshooting skills. I have used the analytical methods and object oriented thinking to meet project criteria and solve ad hoc situations all the time. To meet the tight timeline in a HEV NVH reduction project, with carefully discussion with my technical team, I initiated the CAE analysis task before the model being finalised but refining the model and analysis with later received rig/vehicle tests data. In CUDL, I used open issues list to analysis the performance and in turn drew and implemented action plans accordingly, by this mean I helped CUDL to maintain the approval by British Accreditation Council.            
 
 
@@ -52,9 +48,7 @@ The years in project environment provide me excellent opportunities to develop m
 
 #### AXELOS (January 2017)
 - PRINCE2 Project Management training
-- PRINCE2 Foundation Certificate awarded by The Chartered Institute of IT
-- PRINCE2 Practitioner Certificate awarded by The Chartered Institute of IT
-
+- PRINCE2 Foundation and Practitioner  Certificate awarded by The Chartered Institute of IT
 
 #### University of Nottingham (September 2008 to December 2013)
 - Ph.D in Environmental Engineering
@@ -85,6 +79,7 @@ Major Achievements:
 *Project Manager*    
 Responsibilities:
 - Translate the commercial contracts and technical document from English into Mandarin;
+- Assistant on patent documentation and applicaition;
 - Full life cycle project management and client/supplier liaison;  
 
 Major Achievements:
@@ -96,5 +91,5 @@ Major Achievements:
 - Published a scientific journal paper
 
 ## Interests
-I like solving mathematics problems. Beside solving them, I enjoy the process of exploring solutions. I was ranked as the 2nd out of about 900 students in the school in the
-The China National College Entrance Examination. I also like playing table tennis and table football and played with my teams during the breaks.  
+I like solving mathematics problems. Beside solving them, I enjoy the process of exploring solutions. I was ranked as the 2nd out of about 900 students in the high school in the
+The China National College(University) Entrance Examination. I also like playing table tennis and table football and played with my teams during the breaks.  
