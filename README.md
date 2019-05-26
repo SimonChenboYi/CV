@@ -68,7 +68,7 @@ The years in project environment provide me excellent opportunities to develop m
 - Bachelor in Environmental Engineering, 2.1
 
 ## Experience
-More details in [CV prior to Software Engineer]()
+More details in [CV prior to Software Engineer](https://github.com/SimonChenboYi/CV/blob/master/CV-Prior_to_software_engineer.pdf)
 
 **China UK Development Ltd (CUDL)** (12/2017–12/2018)    
 *Assistant Manager*  
@@ -96,4 +96,5 @@ Major Achievements:
 - Published a scientific journal paper
 
 ## Interests
-I am a big fan of playing ping pong and played quite often back in student age. I like road trips which further than appreciating the destinations I can also enjoy the tour themselves.  
+I like solving mathematics problems. Beside solving them, I enjoy the process of exploring solutions. I was ranked as the 2nd out of about 900 students in the school in the
+The China National College Entrance Examination. I also like playing table tennis and table football and played with my teams during the breaks.  
