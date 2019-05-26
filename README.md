@@ -1,7 +1,19 @@
 ## Chenbo (Simon) Yi
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@ycb0001)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@ycb0001)
 
 I'm a enthusiastic and energetic Software Engineer and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple projects in engineering sector and enducation sector. Further than a non-technical project manager, I  would like to use my strengths on research and analytical thinking to have the deeper contributions on projects. During the self-learning, I discovered the enjoyment of programming and magnified the enjoyment in Makers Academy. I am now looking for an opportunity to join a fast paced software team delivering exciting projects/products where I can learn extensively with and contribute to.
+
+## Projects
+Examples:
+
+Project title  | Description  									| Development timeframe | Technologies | Testing
+------------- | ------------------------------	| ------------- |------------- |---------
+[Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) | A multiplayer general knowledge quiz game. Play [here](https://qzbz.herokuapp.com)! | 10 days | React, Elixir, Phoenix, PostgreSQL| ExUnit, Enzyme, Sinon, Mocha, Chai
+[SpyAPI](https://github.com/spyAPI/spyAPI) | A tool for mocking API requests, to be used during the build and testing of new projects. Try it out [here](https://spy-api.herokuapp.com). | 3 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
+
+
+
+
 
 ## Skills
 
