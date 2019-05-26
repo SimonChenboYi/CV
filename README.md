@@ -71,20 +71,22 @@ The years in project environment provide me excellent opportunities to develop m
 More details in [CV prior to Software Engineer]()
 
 **China UK Development Ltd (CUDL)** (12/2017–12/2018)    
-*Assistant Manager*
+*Assistant Manager*  
 Responsibilities:
 -  Lead the programme management and operation (report to Operation Director)
--  Assistant on business development and partner relationship maintenance.
+-  Assistant on business development and partner relationship maintenance.  
+
 Major Achievements:
 - Successfully operated 2018 winter/summer schools with in excess of 700 enrolment;
 - Directed and organised the first international education summit when 14 collaboration MOU signed;
 - Explored and established numerous links with lecturers in Oxbridge and initiated collaboration with some other parties such as ACCA HQ etc.
 
 **Smart Manufacturing Technology Ltd(SMT)** (04/2015–10/2017)   
-*Project Manager*  
+*Project Manager*    
 Responsibilities:
 - Translate the commercial contracts and technical document from English into Mandarin;
-- Full life cycle project management and client/supplier liaison;
+- Full life cycle project management and client/supplier liaison;  
+
 Major Achievements:
 - Secured the largest contract in the company at the time in automotive sector and successfully managed the project leading to another potential project;
 - Completed a internal design project with the longest duration in the company, 6 years;
