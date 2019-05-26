@@ -1,8 +1,7 @@
 ## Chenbo (Simon) Yi
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@ycb0001)
 
-I'm a enthusiastic and energetic Software Engineer and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple consultancy projects to solve transmission issues for automotive OEMs and directed the facilitating of the winter school/summer school programmes and an international education summit. Further than non-technical project manager, I  would like to use my strengths on research and analytical thinking to have deeper contributions on projects.
-
+I'm a enthusiastic and energetic Software Engineer and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple projects in engineering sector and enducation sector. Further than a non-technical project manager, I  would like to use my strengths on research and analytical thinking to have the deeper contributions on projects. During the self-learning, I discovered the enjoyment of programming and magnified the enjoyment in Makers Academy. I am now looking for an opportunity to join a fast paced software team delivering exciting projects/products where I can learn extensively with and contribute to.
 
 ## Skills
 
