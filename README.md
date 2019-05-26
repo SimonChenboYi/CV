@@ -87,5 +87,5 @@ Major Achievements:
 - Published a scientific journal paper
 
 ## Interests
-I like solving mathematics problems. Beside solving them, I enjoy the process of exploring solutions. I was ranked as the 2nd out of about 900 students in the high school in the
+I like solving mathematics problems. Beside solving them, I enjoy the process of exploring solutions. I was ranked as the 2nd out of about 900 students in mathematics in the
 The China National College(University) Entrance Examination. I also like playing table tennis and table football and play with my teams during the breaks.  
