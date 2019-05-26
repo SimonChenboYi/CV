@@ -1,17 +1,17 @@
 ## Chenbo (Simon) Yi
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@ycb0001)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@ycb0001) | [LinedIn](https://www.linkedin.com/in/chenbo-yi-6084722b/)
 
 I'm a enthusiastic and energetic Software Engineer and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple projects in engineering sector and enducation sector. Further than a non-technical project manager, I  would like to use my strengths on research and analytical thinking to have the deeper contributions on projects. During the self-learning, I discovered the enjoyment of programming and magnified the enjoyment in Makers Academy. I am now looking for an opportunity to join a fast paced software team delivering exciting projects/products where I can learn extensively with and contribute to.
 
 ## Projects
 Examples:
 
-Project title  | Description  									| Development timeframe | Technologies | Testing
+Project title  | Description  									| Project Timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
-[Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) | A multiplayer general knowledge quiz game. Play [here](https://qzbz.herokuapp.com)! | 10 days | React, Elixir, Phoenix, PostgreSQL| ExUnit, Enzyme, Sinon, Mocha, Chai
-[SpyAPI](https://github.com/spyAPI/spyAPI) | A tool for mocking API requests, to be used during the build and testing of new projects. Try it out [here](https://spy-api.herokuapp.com). | 3 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
-
-
+[MakersBnB](https://github.com/SimonChenboYi/MakersBnB) | A clone of AirBnB in 4 days with 3 other team members. We together learnt  new tech stack  including  framework,  new test library,  ORM. We also experienced multiple working styles ( team, sub-team, individual). I have shared my experiences on project management and decision making and leant the work flow on git/Github. We grew massively and collaboratively.| 4 days | Javascript, node.js, express.js, PostgreSQL, Sequelize | Jasmine, Nightwatch.js
+[Bowling-Scorecard](https://github.com/SimonChenboYi/bowling-challenge) | A single page web app of bowling scorecard. User can enter the number of pins knocked down of each roll. The score is calculated after each round and updated when spares or spikes  | 2 days | Javascript, JQuery | Jasmine
+[Chitter](https://github.com/SimonChenboYi/chitter) | A web app of message board. User can sign up, login and post message. Message owner and posting time are listed with message on the board.   | 2 days -(Solo) | Ruby, Sinatra, PostgreSQL | RSpec, Capybara
+[Rock_Paper_Scissors](https://github.com/SimonChenboYi/rps-challenge)| A web application for playing Rock_Paper_Scissors between two players or with the computer. When playing with computer,  the computer selects a random movement. | 2 days -(Solo) | Ruby, Sinatra  | RSpec, Capybara
 
 
 
