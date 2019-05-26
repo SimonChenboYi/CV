@@ -1,4 +1,5 @@
 ## Chenbo (Simon) Yi
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@ycb0001)
 
 I'm a former Project Manager and Assistant (operation) Manager and have a Ph.D in Environmental Engineering. I have managed multiple consultancy projects at Smart Manufacturing Technologies Ltd (SMT) to solve transmission issues for automotive OEMs and directed the facilitating of winter school/summer school programme and  the international education summit at China UK Development Ltd (CUDL) collaborating with several colleges of Cambridge University. Further than non-technical project manager, I now would like to use my strength on research and engineering thinking to have deeper contribution on projects and making products.
 
