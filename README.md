@@ -1,5 +1,5 @@
 ## Chenbo (Simon) Yi
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@ycb0001) | [LinedIn](https://www.linkedin.com/in/chenbo-yi-6084722b/)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinedIn](https://www.linkedin.com/in/chenbo-yi-6084722b/)
 
 I'm a enthusiastic and energetic Software Engineer in Makers and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple projects in engineering sector and enducation sector. Further than a non-technical project manager, I  would like to use my strengths on research and analytical thinking to have the deeper contributions on projects. During the self-learning, I discovered the enjoyment of programming and magnified the enjoyment in Makers Academy. I am now looking for an opportunity to join a fast paced software team delivering exciting projects/products where I can learn extensively with and contribute to.
 
@@ -63,8 +63,7 @@ Project title  | Description  									| Project Timeframe | Technologies | Test
 ## Experience
 More details in [CV prior to Software Engineer](https://github.com/SimonChenboYi/CV/blob/master/CV-Prior_to_software_engineer.pdf)
 
-**China UK Development Ltd (CUDL)** (12/2017–12/2018)    
-*Assistant Manager*  
+**China UK Development Ltd (CUDL)** (12/2017–12/2018)   *Assistant Manager*  
 Responsibilities:
 -  Lead the programme management and operation (report to Operation Director)
 -  Assistant on business development and partner relationship maintenance.  
@@ -74,8 +73,7 @@ Major Achievements:
 - Directed and organised the first international education summit when 14 collaboration MOU signed;
 - Explored and established numerous links with lecturers in Oxbridge and initiated collaboration with some other parties such as ACCA HQ etc.
 
-**Smart Manufacturing Technology Ltd(SMT)** (04/2015–10/2017)   
-*Project Manager*    
+**Smart Manufacturing Technology Ltd(SMT)** (04/2015–10/2017)   *Project Manager*    
 Responsibilities:
 - Translate the commercial contracts and technical document from English into Mandarin;
 - Assistant on patent documentation and application;
@@ -85,8 +83,7 @@ Major Achievements:
 - Secured the largest contract in the company at the time in automotive sector and successfully managed the project leading to another potential project;
 - Completed a internal design project with the longest duration in the company, 6 years;
 
-**Jiangxi Academy of Sciences ( in China)** (05/2014–03/2015)  
-*Research Associate*
+**Jiangxi Academy of Sciences ( in China)** (05/2014–03/2015)   *Research Associate*
 - Published a scientific journal paper
 
 ## Interests
