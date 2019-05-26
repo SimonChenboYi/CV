@@ -13,13 +13,14 @@ Project title  | Description  									| Project Timeframe | Technologies | Test
 [Chitter](https://github.com/SimonChenboYi/chitter) | A web app of message board. User can sign up, login and post message. Message owner and posting time are listed with message on the board.   | 2 days -(Solo) | Ruby, Sinatra, PostgreSQL | RSpec, Capybara
 [Rock_Paper_Scissors](https://github.com/SimonChenboYi/rps-challenge)| A web application for playing Rock_Paper_Scissors between two players or with the computer. When playing with computer,  the computer selects a random movement. | 2 days -(Solo) | Ruby, Sinatra  | RSpec, Capybara
 
-
-
 ## Skills
 
 #### Communication
 
-Since the university years, I have supervised several technical research projects for year 3 students and master students. At SMT, before hands on projects, I began with translating technical reports and commercial contracts  between English and Mandarin. During projects, beyond project planning, progress control and delivery, I had opportunity to enrich my experiences on liaison with clients and sub-contractors. At CUDL, I had frequent communication with partners colleges, which the conference manager at Sidney Sussex college used 'efficient' to describe my communication with her. Similarly the collaboration of CUDL with ACCA Global HQ initiated after I reached out to their head of International Student Flow and had an 'informative' conference call.
+ At Makers I pair programmed daily and lead the stand up meeting in my group projects. I am flexible on working styles and able to modify my process depends on mutual agreement. As a former project manager, I worked closed to the technical teams and had opportunity to enrich my experiences on liaison with clients and sub-contractors in SMT. At CUDL, I improved my skills on communication with internal teams and stakeholders. The conference manager at Sidney Sussex college used 'efficient' to describe my communication with her. Similarly the collaboration of CUDL with ACCA Global HQ initiated after I reached out to their head of International Student Flow and had an 'informative' conference call.
+
+#### Fast Learning
+
 
 
 #### Research
@@ -58,7 +59,7 @@ The years in project environment provide me excellent opportunities to develop m
 #### University of Nottingham (September 2008 to December 2013)
 - Ph.D in Environmental Engineering
 - Thesis: Microwave Processing of Hydrocarbon Contaminated Soil
-- Co-authored three scientific journal paper, two of them in Q2
+- Co-authored three scientific journal papers, two of them in Q2
 
 #### University of Nottingham (September 2007 to December 2018)
 - Master in Environmental Engineering
@@ -67,20 +68,28 @@ The years in project environment provide me excellent opportunities to develop m
 - Bachelor in Environmental Engineering, 2.1
 
 ## Experience
+More details in [CV prior to Software Engineer]()
 
-**China UK Development Ltd (UK)** (12/2017–12/2018)    
-*Assistant Manager*  
-- Successfully operated 2018 winter/summer schools with in excess of  700 enrolment and over 98% satisfy rate;
+**China UK Development Ltd (CUDL)** (12/2017–12/2018)    
+*Assistant Manager*
+Responsibilities:
+-  Lead the programme management and operation (report to Operation Director)
+-  Assistant on business development and partner relationship maintenance.
+Major Achievements:
+- Successfully operated 2018 winter/summer schools with in excess of 700 enrolment;
 - Directed and organised the first international education summit when 14 collaboration MOU signed;
-- Maintain the approval by British Accreditation Council by improving the performance and procedure;
-- Explored and established numerous links with lecturers in Oxbridge and initiated collaboration with some other parties including ACCA Global HQ.
+- Explored and established numerous links with lecturers in Oxbridge and initiated collaboration with some other parties such as ACCA HQ etc.
 
-**Smart Manufacturing Technology Ltd(UK)** (04/2015–10/2017)   
+**Smart Manufacturing Technology Ltd(SMT)** (04/2015–10/2017)   
 *Project Manager*  
+Responsibilities:
+- Translate the commercial contracts and technical document from English into Mandarin;
+- Full life cycle project management and client/supplier liaison;
+Major Achievements:
 - Secured the largest contract in the company at the time in automotive sector and successfully managed the project leading to another potential project;
 - Completed a internal design project with the longest duration in the company, 6 years;
 
-**Jiangxi Academy of Sciences (China)** (05/2014–03/2015)  
+**Jiangxi Academy of Sciences ( in China)** (05/2014–03/2015)  
 *Research Associate*
 - Published a scientific journal paper
 
