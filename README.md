@@ -23,7 +23,7 @@ Project title  | Description  									| Project Timeframe | Technologies | Test
  I can pickup new concepts and skills quickly through self-learning. I have learnt C# and ruby in about 6 weeks before joining Makers. In Makers, I was able to learn javascript and jasmine in one week and converted my learning to minimum viable product by TDD. Similarly, I made a AirBnB clone using  node.js, express.js, Sequelize and Nightwatch.js with no prior experience in a week. Beside programming, I demonstrated my learning skills by quickly picking up concept on mechanical engineering /automotive industry and in turn leading on technical translation. During the PhD research, I was able gain solid understanding on physical fundamentals quickly with no previous knowledge and built my multidisciplinary research.       
 
 #### Analytical Thinking
-  When programming in Makers, I often used analytical skills to solve complicated tasks. I used agile methodologies and TDD to break them into smaller ones and I was able to find solution when working toward to it ([An example of breaking complicated logic into smaller ones](https://github.com/SimonChenboYi/bowling-challenge);[Another example: Break Ruby Quine into steps](https://medium.com/@ycb0001/my-first-ruby-quine-with-12-steps-207658c43c2b)). I also analyse others code, from which I can leant from the code or carry on the work from other team members easily ([Example: Analysis on Count App](https://medium.com/@ycb0001/learn-code-via-example-code-analysis-be90cfc2b9e)). Before joining Makers, I have been using the analytical skills and tools on project/tasks planning, budget control and research.
+  When programming in Makers, I often used analytical skills to solve complicated tasks. I used agile methodologies and TDD to break them into smaller ones and I was able to find solution when working toward to it ([An example of analysing complicated logic:Bowling-Scorecard ](https://github.com/SimonChenboYi/bowling-challenge);[Another example: Break Ruby Quine into steps](https://medium.com/@ycb0001/my-first-ruby-quine-with-12-steps-207658c43c2b)). I also analyse others code, from which I can leant from the code or carry on the work from other team members easily ([Example: Analysis on Count App](https://medium.com/@ycb0001/learn-code-via-example-code-analysis-be90cfc2b9e)). Before joining Makers, I have been using the analytical skills and tools on project/tasks planning, budget control and research.
 
 
 #### Problem Solving
@@ -38,7 +38,10 @@ The years in project environment provide me excellent opportunities to develop m
 ## Education
 
 #### Makers Academy (March-2019 to April-2019(pre-course) && April-2019 to June-2019)
-
+  OOP, TDD, Agile/XP
+  Ruby, JavaScript, Python, Html, CSS, SQL, PostgreSQL
+  RSpec, Capybara, Jasmine, Nightwatch, unittest
+  Sinatra, Ruby on Rails,Node.js, Express.js
 
 #### Udemy (January 2019 - February 2019)
 - C# Basics for Beginners: Learn C# Fundamentals by Coding
