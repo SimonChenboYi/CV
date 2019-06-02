@@ -8,6 +8,7 @@ Examples:
 
 Project title  | Description  									| Project Timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
+[Ace-Book](https://github.com/SimonChenboYi/acebook-MVP):  Deployed at:  [https://acebook-heroku.herokuapp.com/](https://acebook-heroku.herokuapp.com/) | A clone of Facebook . We  have learnt and used Ruby on Rails and CICD . We have effective communication with the 'Clients' and delivered the best product  among the 5 groups.  I lead the tasks on database, controller, deployment and contributed on the other parts. I shared my experience on project management by leading the first meetings. | 9 days (Team of  Six) | Ruby , Rails,  PostgreSQL | Travis, Rspec, Capybara
 [MakersBnB](https://github.com/SimonChenboYi/MakersBnB) | A clone of AirBnB in 4 days with 3 other team members. We together learnt  new tech stack  including  framework,   test library, ORM. We also experienced multiple working styles ( team, sub-teams, individual). I have shared my experiences on project management and decision making and learnt the work flow on git/Github. We grew massively and collaboratively.| 4 days-(Team of Four) | Javascript, node.js, express.js, PostgreSQL, Sequelize | Jasmine, Nightwatch.js
 [Bowling-Scorecard](https://github.com/SimonChenboYi/bowling-challenge) | A single page web app of bowling scorecard. User can enter the number of pins knocked down of each roll. The score is calculated after each round and updated when spares or spikes  | 2 days-(Solo) | Javascript, JQuery | Jasmine
 [Chitter](https://github.com/SimonChenboYi/chitter) | A web app of message board. User can sign up, login and post message. Message owner and posting time are listed with message on the board.   | 2 days -(Solo) | Ruby, Sinatra, PostgreSQL | RSpec, Capybara
@@ -54,7 +55,7 @@ Project title  | Description  									| Project Timeframe | Technologies | Test
 - Thesis: Microwave Processing of Hydrocarbon Contaminated Soil
 - Co-authored three scientific journal papers, two of them in Q2
 
-#### University of Nottingham (September 2007 to December 2018)
+#### University of Nottingham (September 2007 to December 2008)
 - Master in Environmental Engineering
 
 #### Nankai University (in China) (September 2002 to June 2006)
