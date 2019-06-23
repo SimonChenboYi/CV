@@ -38,10 +38,10 @@ Project title  | Description  									| Project Timeframe | Technologies | Test
 ## Education
 
 #### Makers Academy (March-2019 to April-2019(pre-course) && April-2019 to June-2019)
-  OOP, TDD, Agile/XP  
-  Ruby, JavaScript, Python, Swift, Html, CSS, SQL, PostgreSQL, SQLite
-  RSpec, Capybara, Jasmine, Nightwatch, unittest, XCTest  
-  Sinatra, Ruby on Rails, Node.js, Express.js  
+- OOP, TDD, Agile/XP  
+- Ruby, JavaScript, Python, Swift, Html, CSS, SQL, PostgreSQL, SQLite
+- RSpec, Capybara, Jasmine, Nightwatch, unittest, XCTest  
+- Sinatra, Ruby on Rails, Node.js, Express.js  
 
 #### Udemy (January 2019 - February 2019)
 - C# Basics for Beginners: Learn C# Fundamentals by Coding
