@@ -19,7 +19,7 @@ Project title  | Description  									| Project Timeframe | Technologies | Test
 
 #### Communication
 
- At Makers I pair programmed daily and lead the stand up meeting in my group projects. I am flexible and able to modify my process to align with the team ([Feedbacks from Paring Partners and Project Teams](https://github.com/SimonChenboYi/CV/blob/master/Feedback.md)). As a former project manager, I worked closed to the technical teams and had opportunity to enrich my experiences on liaison with clients and sub-contractors in SMT. At CUDL, I improved my skills on communication with internal teams and stakeholders. The conference manager at Sidney Sussex college used 'efficient' to describe my communication with her.
+ At Makers I pair programmed daily and lead the stand up meeting in my group projects. I am flexible and able to modify my process to align with the team (Link:[Feedbacks from Paring Partners and Project Teams](https://github.com/SimonChenboYi/CV/blob/master/Feedback.md)). As a former project manager, I worked closed to the technical teams and had opportunity to enrich my experiences on liaison with clients and sub-contractors in SMT. At CUDL, I improved my skills on communication with internal teams and stakeholders. The conference manager at Sidney Sussex college used 'efficient' to describe my communication with her.
 
 #### Fast Learning
  I can pickup new concepts and skills quickly through self-learning. I have learnt C# and ruby in about 6 weeks before joining Makers. At Makers, I was able to learn javascript and jasmine in one week and converted my learning to minimum viable product by TDD. Similarly, I made an AirBnB clone using node.js, express.js, Sequelize and Nightwatch.js with no prior experience in a week. Beside programming, I demonstrated my learning skills by quickly picking up concept on mechanical engineering in automotive industry and in turn lead on technical translation. During the PhD research, I was able to gain solid understanding on physical fundamentals of microwave heating quickly with no previous knowledge and built my multidisciplinary research.       
@@ -39,8 +39,8 @@ Project title  | Description  									| Project Timeframe | Technologies | Test
 
 #### Makers Academy (March-2019 to April-2019(pre-course) && April-2019 to June-2019)
   OOP, TDD, Agile/XP  
-  Ruby, JavaScript, Python, Html, CSS, SQL, PostgreSQL  
-  RSpec, Capybara, Jasmine, Nightwatch, unittest  
+  Ruby, JavaScript, Python, Swift, Html, CSS, SQL, PostgreSQL, SQLite
+  RSpec, Capybara, Jasmine, Nightwatch, unittest, XCTest  
   Sinatra, Ruby on Rails, Node.js, Express.js  
 
 #### Udemy (January 2019 - February 2019)
