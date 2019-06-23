@@ -1,13 +1,14 @@
 ## Chenbo (Simon) Yi
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/chenbo-yi-6084722b/)
 
-I'm an enthusiastic and energetic Software Engineer at Makers and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple projects in engineering sector and education sector. Further than a non-technical project manager, I would like to use my strengths on research and analytical thinking to have the deeper contributions on projects. During the self-learning, I discovered the enjoyment of programming and magnified the enjoyment at Makers. I am now looking for an opportunity to join a fast paced software team delivering exciting projects/products where I can learn extensively with and contribute to.
+I'm an enthusiastic and energetic Software Engineer at Makers and a former Project Manager with Ph.D degree in Environmental Engineering. I have managed multiple projects in engineering sector and education sector. Further than a non-technical project manager, I would like to use my strengths on research and analytical thinking to have the better contributions on projects. During the self-learning, I discovered the enjoyment of programming and magnified the enjoyment at Makers. I am now looking for an opportunity to join a fast paced software team delivering exciting projects/products where I can learn extensively with and contribute to.
 
 ## Projects
 Examples:
 
 Project title  | Description  									| Project Timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
+[Dinnergy](https://github.com/SimonChenboYi/dinnergy)| Dinnergy is an iPhone application that allows users to plan a meal depending on available ingredients. In two weeks, we learnt Swift and Xcode and used XCTest to cover 96.8% of the code. In this project, I  have lead the Backend development including on Database, Business Logic and Tests. | 10 days (Team of  Six) | Swift , SQLite, Xcode | Travis, SwiftLint, XCTest
 [Ace-Book](https://github.com/SimonChenboYi/acebook-MVP):  Deployed at:  [https://acebook-heroku.herokuapp.com/](https://acebook-heroku.herokuapp.com/) | A clone of Facebook. We together learnt and used Ruby on Rails and CICD . We have effective communication with the 'Clients' and delivered the best product  among the 5 groups.  I lead the tasks on database, controller, deployment and contributed on the other parts. I shared my experience on project management by leading the first meetings. | 9 days (Team of  Six) | Ruby , Rails,  PostgreSQL | Travis, Rspec, Capybara
 [MakersBnB](https://github.com/SimonChenboYi/MakersBnB) | A clone of AirBnB. We together learnt  new tech stack  including  framework,   test library, ORM. We also experienced multiple working styles ( team, sub-teams, individual). I have shared my experiences on project management and decision making and learnt the work flow on git/Github. We grew massively and collaboratively.| 4 days-(Team of Four) | Javascript, node.js, express.js, PostgreSQL, Sequelize | Jasmine, Nightwatch.js
 [Bowling-Scorecard](https://github.com/SimonChenboYi/bowling-challenge) | A single page web app of bowling scorecard. User can enter the number of pins knocked down of each roll. The score is calculated after each round and updated when spares or spikes  | 2 days-(Solo) | Javascript, JQuery | Jasmine
@@ -86,4 +87,4 @@ Major Achievements:
 - Published a scientific journal paper
 
 ## Interests
-I like solving mathematics problems. Beyond solving them, I enjoy the process of exploring solutions. I was ranked as the 2nd out of about 900 students in mathematics in the China National College(University) Entrance Examination. I also like playing table tennis. I played with my teams during the breaks.  
+I like solving mathematics problems. Beyond solving them, I enjoy the process of exploring solutions. I also like playing table tennis. I played with my teams during the breaks.  
