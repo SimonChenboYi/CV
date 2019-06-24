@@ -50,14 +50,10 @@ When programming at Makers, I often used analytical skills to solve complicated 
 I have been practising and improving my problem solving skills throughout my education and career. I greatly enjoy the process of problem-solving itself. From [Codewars](https://www.codewars.com/users/Simon%20Yi) to the projects in Makers, I have demonstrated an ability to adapt to a variety of methodologies and processes and take multiple perspectives to draw solutions. I regularly helped my cohort to debug their code and unblock themselves in the process. In SMT, one of my tasks was to modify the project plan to align with changes from clients, and in CUDL I solved ad hoc logistics issues or situations raised from clients or suppliers . This was a daily job in winter/summer schools’ term time.
 
 
-
 #### Additional Skills
 
 - Full project lifecycle experience
-
 - Bilingual, Fluent in English and Native in Mandarin
-
-
 
 
 ## Education
@@ -88,7 +84,6 @@ Makers Academy is the leading software development boots camp in London. I learn
 #### University of Nottingham (September 2008 to December 2013)
 
 - Ph.D in Environmental Engineering
-
 - Thesis: Microwave Processing of Hydrocarbon Contaminated Soil
 
 
@@ -130,7 +125,5 @@ SMT is a consultancy and software supplier for transmission design and optimisat
 ## Interests
 
 -   I like solving mathematical problems.
-
 -   Beyond solving them, I enjoy the process of exploring solutions.
-
 -   I also like playing table tennis, having played with my team during my afternoon breaks at Makers.
