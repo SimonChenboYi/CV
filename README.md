@@ -9,6 +9,7 @@ I'm an enthusiastic and energetic Software Engineer at Makers and a former Proje
 ## Projects
 
 Examples:
+
 Project title | Description | Project Timeframe | Technologies | Testing
 ------------- | ------------------------------  | ------------- |------------- |---------
 [Dinnergy](https://github.com/SimonChenboYi/dinnergy)| Dinnergy is an iPhone application that allows users to plan a meal depending on their available ingredients. In two weeks, we learned Swift and Xcode to support the development and used XCTest to test-drive our units and features. In this project, I led the Backend development including the Database, Business Logic and TDD. | 10 days (Team of Six) | Swift , SQLite, Xcode | Travis, SwiftLint, XCTest
@@ -106,14 +107,14 @@ Makers Academy is the leading software development boots camp in London. I learn
 ## Experience
 
 
-**China UK Development Ltd (CUDL)** (12/2017–12/2018) --- ***Assistant Manager***
+**China UK Development Ltd (CUDL)** (12/2017–12/2018) --- ***Assistant Manager***    
 CUDL is an education service provider based in Cambridge and offers short term academic programmes to Chinese Universities
 - Central management of the winter/summer schools and organise events and visits
 - Assistant on business development and partner-relationship maintenance
 - Successfully operated 2018 winter/summer schools with in excess of 700 enrolment
 - Directed and organised the first international education summit when 14 collaboration MOU signed
 
-**Smart Manufacturing Technology Ltd(SMT)** (04/2015–10/2017) --- ***Project Manager***
+**Smart Manufacturing Technology Ltd(SMT)** (04/2015–10/2017) --- ***Project Manager***    
 SMT is a consultancy and software supplier for transmission design and optimisation in automotive and wind energy sectors.
 
 - Translated the commercial contracts and technical documents from English into Mandarin and assistant on patent documentation and application;
