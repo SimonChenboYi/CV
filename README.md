@@ -1,4 +1,6 @@
-## Chenbo (Simon) Yi
+##  Dr Chenbo (Simon) Yi
+Email: yichenbo@outlook.com  
+Tel: 07713158098
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/chenbo-yi-6084722b/)
 
