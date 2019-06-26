@@ -73,6 +73,7 @@ Makers Academy is the leading software development boots camp in London. I learn
 #### Udemy (January 2019 - February 2019)
 
 - Learn to Code with Ruby
+- C# Basics for Beginners: Learn C# Fundamentals by Coding
 
 #### AXELOS (January 2017)
 
